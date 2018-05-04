@@ -31,7 +31,8 @@ namespace HoloAzureSample.SpeechToText
         public SpeechToTextApiErrorCallback ErrorCallback { get; set; }
 
         /// <summary>
-        /// 取得したAzureのKey(★公開してはいけない)
+        /// 取得したAzureのKey
+        /// ★公開してはいけない、SpeechToText.unityにも保持されているので注意すること
         /// </summary>
         [SerializeField]
         private string subscriptionKey = "★ここにAzureのキー情報を入力する★";

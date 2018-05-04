@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HoloAzureSample/Scenes/TextToSpeech.unity
+    guid: 9fde50142b21c064ba8d6f163c58e5ce
