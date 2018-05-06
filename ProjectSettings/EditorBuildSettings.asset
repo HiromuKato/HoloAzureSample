@@ -6,5 +6,5 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/HoloAzureSample/Scenes/LanguageUnderstanding.unity
-    guid: cdf2ef8da45a63749a5215cfe37da700
+    path: Assets/HoloAzureSample/Scenes/ImageSearch.unity
+    guid: 29c6f58700ff7c845a871feddd6e818d
